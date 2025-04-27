@@ -1,0 +1,13 @@
+* {
+    margin: 0px;
+    padding:0px;
+}
+.hero1{
+    display: flex;
+    justify-content: center;
+  }
+  .a{
+    display: flex;
+    align-items: center;
+    text-decoration: none;
+  }
